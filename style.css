@@ -1,0 +1,19 @@
+body {
+    background-image: url("/pics/waves.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-float {
+    float: left;
+}
+
+.day {
+    text-align: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    padding: 5%;
+}
